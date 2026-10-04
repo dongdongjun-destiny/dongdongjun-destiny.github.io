@@ -1,4 +1,4 @@
-# Yidong Zhang (张屹东)
+# Yidong Zhang
 
 Personal academic homepage for GitHub Pages:
 
