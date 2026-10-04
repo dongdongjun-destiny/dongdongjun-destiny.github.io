@@ -1,7 +1,7 @@
 # 🔬 Research Experience {#research-experience}
 
 ### NVIDIA Open-H & Intelligent Medical Mechatronics Lab
-*Research Assistant · Sep 2025 – Present*
+*part-time Student Helper · Sep 2025 – Present*
 
 - Developed a multi-motor endoscope teleoperation system: built a 4-axis DJI M2006 motor control system with a RoboMaster A board and a Python host program, achieved high-frequency closed-loop motor control over CAN bus, and integrated an Xbox controller for vector-based endoscope actuation and PWM lighting control.
 - Designed a multimodal data acquisition pipeline (serial communication, data logging, CSV storage), resolving timestamp alignment and synchronization between variable-frame-rate video and fixed-rate sensor streams.
