@@ -1,6 +1,6 @@
 # 🏭 Industry Experience {#industry-experience}
 
-### Chengshi Zhiguang (Shenzhen) Autonomous Driving Co., Ltd. (城市之光), Perception Algorithm Dept.
+### Chengshi Zhiguang (Shenzhen) Autonomous Driving Co., Ltd., Perception Algorithm Dept.
 *Data Processing Intern · Jun 2025 – Aug 2025*
 
 - Annotated and cleaned cloud-based perception data for autonomous driving to ensure training-data quality.

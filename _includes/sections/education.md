@@ -1,6 +1,6 @@
 # 📖 Education {#education}
 
-- **Central South University** (中南大学) · Ph.D. in Electronic Information  
+- **Central South University** · Ph.D. in Electronic Information  
   *Sep 2026 – present*
 
 - **The Chinese University of Hong Kong** · M.Sc. in Electronic Engineering  
