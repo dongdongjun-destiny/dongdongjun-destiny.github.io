@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me {#about-me}
 
-Hi! I am **Yidong Zhang**, an M.Sc. student in Electronic Engineering at **The Chinese University of Hong Kong (CUHK)** (Sep 2025 – Jul 2026, expected). I received my B.Eng. in Electronic and Information Technology from **Beijing Forestry University** (Sep 2021 – Jun 2025; GPA 86.52/100). I am a part-time Student Helper at **NVIDIA Open-H & Intelligent Medical Mechatronics Lab**.
+Hi! I am **Yidong Zhang**, an M.Sc. student in Electronic Engineering at **The Chinese University of Hong Kong (CUHK)** (Sep 2025 – Jul 2026, expected). I received my B.Eng. in Electronic and Information Technology from **Beijing Forestry University** (Sep 2021 – Jun 2025; GPA 86.52/100). I am a Research Assistant at **NVIDIA Open-H & Intelligent Medical Mechatronics Lab**.
 
 My research interests include **medical and endoscopic robotics**, **vision-language-action models**, **imitation learning**, and **robot foundation models**.
 
