@@ -1,6 +1,6 @@
 # 🔥 News {#news}
 
-- *2026.09*: Started the Ph.D. in Electronic Information at Central South University
+- *2026.10*: EBV-CAN preprint available on arXiv; submitted to *IEEE Transactions on Soft Robotics*. [arXiv:2610.30786](https://arxiv.org/abs/2610.30786)
 - *2026*: EndoLIFT accepted by *Biomimetic Intelligence and Robotics* (IF 8.6); co-first author. [arXiv:2608.20478](https://arxiv.org/abs/2608.20478)
 - *2026*: A source-level illumination-motion co-control system for robotic endoscopy accepted as an oral paper at ICBIR 2026
 - *2026*: Third Prize (Innovation Project), 12th Hong Kong University Student Innovation and Entrepreneurship Competition

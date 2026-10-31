@@ -1,8 +1,5 @@
 # 📖 Education {#education}
 
-- **Central South University** · Ph.D. in Electronic Information  
-  *Sep 2026 – present*
-
 - **The Chinese University of Hong Kong** · M.Sc. in Electronic Engineering  
   *Sep 2025 – Jul 2026 (expected)* · Supervisor: Prof. Hongliang Ren
 

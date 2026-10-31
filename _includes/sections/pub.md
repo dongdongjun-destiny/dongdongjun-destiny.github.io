@@ -2,6 +2,11 @@
 
 \* Equal contribution. CAS Q1: Tier 1 journal in the Chinese Academy of Sciences journal ranking. IF: journal impact factor.
 
+- `IEEE Transactions on Soft Robotics` · Submitted · Co-author  
+  Chi Kit Ng\*, Shuchang Liu\*, Jinsong Lin\*, **Yidong Zhang**, Xizi Wang, Ho Yin Chim, and Hongliang Ren.  
+  EBV-CAN: Vision–Language Grounding for Contact-Aided Endoscope Navigation.  
+  [[arXiv](https://arxiv.org/abs/2610.30786)] [[PDF](https://arxiv.org/pdf/2610.30786)]
+
 - `Science Robotics` (IF 32.9) · Under review · Co-author (authors listed alphabetically)  
   Alaa Eldin Abdelaal, ..., **Yidong Zhang**, et al.  
   Open-H-Embodiment: A Large-Scale Dataset for Training Foundation Models in Healthcare Robotics.  
