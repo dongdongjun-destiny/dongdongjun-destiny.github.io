@@ -15,7 +15,7 @@
 - Studied autonomous navigation with multimodal large models in constrained, curved environments, targeting the complex control requirements of flexible robots.
 - Built an end-to-end VLN large-model control framework; developed a dual-motor teleoperation platform and designed a multimodal data acquisition system, addressing multi-source data alignment.
 - Led model development and deployment on Linux, integrating natural-language instructions, visual perception and low-level motor control to map multimodal inputs directly to motor commands.
-- Outcome: precise endoscope navigation and trajectory tracking inside constrained curved channels, moving beyond the limitations of traditional geometric modeling, with potential applications in medical and other complex settings; related work is under major revision at *IEEE Transactions on Robot Learning*.
+- Outcome: precise endoscope navigation and trajectory tracking inside constrained curved channels, moving beyond the limitations of traditional geometric modeling, with potential applications in medical and other complex settings; related work is at *IEEE Transactions on Robot Learning*.
 
 ### Beijing Municipal-Level Project: Automatic Maize Seed Damage Detection Device Based on Soft X-ray Imaging and Image Recognition
 *Feb 2022 – Apr 2024*
