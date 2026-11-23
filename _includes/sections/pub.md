@@ -12,7 +12,7 @@
   Open-H-Embodiment: A Large-Scale Dataset for Training Foundation Models in Healthcare Robotics.  
   [[arXiv](https://arxiv.org/abs/2604.21017)]
 
-- `IEEE Transactions on Robot Learning` (CAS Q1) · Major revision · Co-first author  
+- `IEEE Transactions on Robot Learning` (CAS Q1) · Co-first author  
   Chikit Ng\*, **Yidong Zhang**\*, Tianchun Wu, et al.  
   EndoVLA-OOV: Vision-Language Action Model for Out-Of-View Object Search-to-Track towards Distal Endoscopy Autonomy.
 
